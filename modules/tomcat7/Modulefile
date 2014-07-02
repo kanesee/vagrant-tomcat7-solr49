@@ -1,0 +1,11 @@
+name    'leonljustice-tomcat7'
+version '0.1.0'
+source ''
+author 'Leon Justice'
+license ''
+summary ''
+description 'This module is built for installing Tomcat7 on and Amazon EC2 instance.'
+project_page ''
+
+## Add dependencies, if any:
+# dependency 'username/name', '>= 1.2.0'

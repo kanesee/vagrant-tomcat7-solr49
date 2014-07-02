@@ -1,0 +1,13 @@
+{
+  "name": "leonljustice-tomcat7",
+  "version": "0.1.0",
+  "summary": "",
+  "author": "Leon Justice",
+  "description": "This module is built for installing Tomcat7 on and Amazon EC2 instance.",
+  "dependencies": [],
+  "types": [],
+  "checksums": {},
+  "source": "",
+  "project_page": "",
+  "license": ""
+}

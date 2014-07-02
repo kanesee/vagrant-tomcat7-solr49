@@ -1,0 +1,1 @@
+Started VM with tomcat7 and solr 4.9.0 installed
